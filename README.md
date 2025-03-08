@@ -19,13 +19,13 @@ The dataset provided by NYC TLC originates from over **200,000 taxi and limousin
 - **Luana Rodriquez** - Senior Data Analyst
 - **Uli King** - Senior Project Manager
 
-*Your Automatidata teammates have technical expertise in data analysis and data science. Ensure your communications are clear, concise, and to the point.*
+
 
 ### **NYC TLC Team Members**
 - **Juliana Soto** - Finance and Administration Department Head
 - **Titus Nelson** - Operations Manager
 
-*The TLC team members manage operations but do not have technical backgrounds. Use simple, accessible language when communicating with them.*
+
 
 > **Disclaimer:** The story, names, characters, and incidents in this project are fictitious. No identification with real individuals (living or deceased) is intended or should be inferred. The dataset is for educational purposes only.
 
@@ -41,9 +41,9 @@ Automatidata is in the **early stages** of the NYC TLC project. To initiate the 
 
 ---
 
-## 📝 Your Assignment
+## 📝 My Assignment
 
-Your task is to:
+My task is to:
 
 1. **Build a DataFrame** for the TLC dataset.
 2. Prepare the dataset for **exploratory data analysis (EDA)**.
@@ -51,17 +51,11 @@ Your task is to:
 
 ### ✅ Specific Project Deliverables
 
-Through this project, you will practice and apply your skills by completing the following:
+Through this project, I will practice and apply my skills by completing the following:
 
 - Answer the questions in the **Course 2 PACE** strategy document.
 - Provide responses in the **Jupyter notebook** project file.
 - Complete **coding preparation** in the Jupyter notebook.
 - Summarize the **data types (Dtypes)** of each column.
 - Communicate your key findings to **Deshawn Washington** and **Luana Rodriquez** via an **executive summary**.
-
----
-
-## 🎯 Good Luck!
-
-Automatidata looks forward to seeing how you approach problem-solving and communicate your insights. Dive in and make an impact!
 
